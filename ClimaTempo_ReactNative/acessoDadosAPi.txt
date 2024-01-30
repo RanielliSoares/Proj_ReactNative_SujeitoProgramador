@@ -1,0 +1,6 @@
+let date_br = Cidade.data[0].date_br;
+console.log(date_br); // Imprime "22/01/2024 00:00:00"
+
+let temperature = Cidade.data[0].temperature.temperature;
+console.log(temperature); // Imprime "26"
+
